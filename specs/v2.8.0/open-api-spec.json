@@ -247,7 +247,7 @@
                                     "data": [
                                         {
                                             "shortCode": "12C18",
-                                            "shortUrl": "https:\/\/doma.in\/12C18",
+                                            "shortUrl": "https:\/\/s.test\/12C18",
                                             "longUrl": "https:\/\/store.steampowered.com",
                                             "dateCreated": "2016-08-21T20:34:16+02:00",
                                             "visitsCount": 328,
@@ -266,7 +266,7 @@
                                         },
                                         {
                                             "shortCode": "12Kb3",
-                                            "shortUrl": "https:\/\/doma.in\/12Kb3",
+                                            "shortUrl": "https:\/\/s.test\/12Kb3",
                                             "longUrl": "https:\/\/shlink.io",
                                             "dateCreated": "2016-05-01T20:34:16+02:00",
                                             "visitsCount": 1029,
@@ -522,7 +522,7 @@
                         "examples": {
                             "application\/json": {
                                 "shortCode": "12C18",
-                                "shortUrl": "https:\/\/doma.in\/12C18",
+                                "shortUrl": "https:\/\/s.test\/12C18",
                                 "longUrl": "https:\/\/store.steampowered.com",
                                 "dateCreated": "2016-08-21T20:34:16+02:00",
                                 "visitsCount": 0,
@@ -790,7 +790,7 @@
                         "examples": {
                             "application\/json": {
                                 "longUrl": "https:\/\/github.com\/shlinkio\/shlink",
-                                "shortUrl": "https:\/\/doma.in\/abc123",
+                                "shortUrl": "https:\/\/s.test\/abc123",
                                 "shortCode": "abc123",
                                 "dateCreated": "2016-08-21T20:34:16+02:00",
                                 "visitsCount": 0,
@@ -807,7 +807,7 @@
                                 "title": null,
                                 "crawlable": false
                             },
-                            "text\/plain": "https:\/\/doma.in\/abc123"
+                            "text\/plain": "https:\/\/s.test\/abc123"
                         }
                     },
                     "400": {
@@ -1031,7 +1031,7 @@
                         "examples": {
                             "application\/json": {
                                 "shortCode": "12Kb3",
-                                "shortUrl": "https:\/\/doma.in\/12Kb3",
+                                "shortUrl": "https:\/\/s.test\/12Kb3",
                                 "longUrl": "https:\/\/shlink.io",
                                 "dateCreated": "2016-05-01T20:34:16+02:00",
                                 "visitsCount": 1029,
@@ -1459,7 +1459,7 @@
                         "examples": {
                             "application\/json": {
                                 "shortCode": "12Kb3",
-                                "shortUrl": "https:\/\/doma.in\/12Kb3",
+                                "shortUrl": "https:\/\/s.test\/12Kb3",
                                 "longUrl": "https:\/\/shlink.io",
                                 "dateCreated": "2016-05-01T20:34:16+02:00",
                                 "visitsCount": 1029,
@@ -3333,7 +3333,7 @@
                                             "userAgent": "Mozilla\/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko\/20100101 Firefox\/47.0 Mozilla\/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko\/20100101 Firefox\/42.0",
                                             "visitLocation": null,
                                             "potentialBot": false,
-                                            "visitedUrl": "https:\/\/doma.in",
+                                            "visitedUrl": "https:\/\/s.test",
                                             "type": "base_url"
                                         },
                                         {
@@ -3350,7 +3350,7 @@
                                                 "timezone": "America\/Los_Angeles"
                                             },
                                             "potentialBot": false,
-                                            "visitedUrl": "https:\/\/doma.in\/foo",
+                                            "visitedUrl": "https:\/\/s.test\/foo",
                                             "type": "invalid_short_url"
                                         },
                                         {
@@ -3359,7 +3359,7 @@
                                             "userAgent": "some_web_crawler\/1.4",
                                             "visitLocation": null,
                                             "potentialBot": true,
-                                            "visitedUrl": "https:\/\/doma.in\/foo\/bar\/baz",
+                                            "visitedUrl": "https:\/\/s.test\/foo\/bar\/baz",
                                             "type": "regular_404"
                                         }
                                     ],

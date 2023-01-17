@@ -222,7 +222,7 @@
                                     "data": [
                                         {
                                             "shortCode": "12C18",
-                                            "shortUrl": "https:\/\/doma.in\/12C18",
+                                            "shortUrl": "https:\/\/s.test\/12C18",
                                             "longUrl": "https:\/\/store.steampowered.com",
                                             "dateCreated": "2016-08-21T20:34:16+02:00",
                                             "visitsCount": 328,
@@ -239,7 +239,7 @@
                                         },
                                         {
                                             "shortCode": "12Kb3",
-                                            "shortUrl": "https:\/\/doma.in\/12Kb3",
+                                            "shortUrl": "https:\/\/s.test\/12Kb3",
                                             "longUrl": "https:\/\/shlink.io",
                                             "dateCreated": "2016-05-01T20:34:16+02:00",
                                             "visitsCount": 1029,
@@ -469,7 +469,7 @@
                         "examples": {
                             "application\/json": {
                                 "shortCode": "12C18",
-                                "shortUrl": "https:\/\/doma.in\/12C18",
+                                "shortUrl": "https:\/\/s.test\/12C18",
                                 "longUrl": "https:\/\/store.steampowered.com",
                                 "dateCreated": "2016-08-21T20:34:16+02:00",
                                 "visitsCount": 0,
@@ -725,7 +725,7 @@
                         "examples": {
                             "application\/json": {
                                 "longUrl": "https:\/\/github.com\/shlinkio\/shlink",
-                                "shortUrl": "https:\/\/doma.in\/abc123",
+                                "shortUrl": "https:\/\/s.test\/abc123",
                                 "shortCode": "abc123",
                                 "dateCreated": "2016-08-21T20:34:16+02:00",
                                 "visitsCount": 0,
@@ -740,7 +740,7 @@
                                 },
                                 "domain": null
                             },
-                            "text\/plain": "https:\/\/doma.in\/abc123"
+                            "text\/plain": "https:\/\/s.test\/abc123"
                         }
                     },
                     "400": {
@@ -954,7 +954,7 @@
                         "examples": {
                             "application\/json": {
                                 "shortCode": "12Kb3",
-                                "shortUrl": "https:\/\/doma.in\/12Kb3",
+                                "shortUrl": "https:\/\/s.test\/12Kb3",
                                 "longUrl": "https:\/\/shlink.io",
                                 "dateCreated": "2016-05-01T20:34:16+02:00",
                                 "visitsCount": 1029,
